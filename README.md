@@ -1,5 +1,5 @@
 <h1 align='center'> About me! </h1>
-<h2 > I'm Isabelle. </h2>
+<h2 > Hey, I'm Isabelle. </h2>
 
 - :pencil2: Java / TypeScript / JavaScript / React / Python 
 - 🎨 I enjoy using React, TypeScript, and CSS to create unique front-end projects.
