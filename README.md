@@ -1,6 +1,7 @@
 <h1 align='center'> About me! </h1>
 <h2 > Hey, I'm Isabelle. </h2>
 
+- I am currently a Second Year student at the University of Ottawa, majoring in Computer Science.
 - :pencil2: Java / TypeScript / JavaScript / React / Python 
 - 🎨 I enjoy using React, TypeScript, and CSS to create unique front-end projects.
 - ⭐ My personal website can be viewed [here](https://choiisabelle.github.io/personal)!
