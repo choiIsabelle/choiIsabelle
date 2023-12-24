@@ -16,4 +16,5 @@
 <h2 > Get in Touch! </h2>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:isabellelissina@gmail.com)
+<code><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code>    
 
