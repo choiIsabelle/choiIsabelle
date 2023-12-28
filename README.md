@@ -13,7 +13,6 @@
 <code><img height="20" src="https://prisma.gallerycdn.vsassets.io/extensions/prisma/prisma/3.12.0/1649166081033/Microsoft.VisualStudio.Services.Icons.Default"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-![image](https://github.com/choiIsabelle/choiIsabelle/assets/67203277/1f13a49e-966c-4c25-abed-8b035e0afb8c)
 
 <h2 > Get in Touch! </h2>
 
