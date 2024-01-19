@@ -2,16 +2,9 @@
 <h2 > Hey, I'm Isabelle. </h2>
 
 - I am a Second Year CS student at the University of Ottawa.
-- :pencil2: Java / TypeScript / JavaScript / React / Python 
-- 🎨 I'm open and quick to learning.
+- Java / TypeScript / JavaScript / React / Python 
 - ⭐ My personal website can be viewed [here](https://choiisabelle.github.io/personal)
 - 💭 Outside of school, I enjoy writing, going to the gym, and playing video games.
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://prisma.gallerycdn.vsassets.io/extensions/prisma/prisma/3.12.0/1649166081033/Microsoft.VisualStudio.Services.Icons.Default"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
 <h2 > Get in Touch! </h2>
