@@ -1,8 +1,8 @@
 <h1 align='center'> About me! </h1>
 <h2 > Hey, I'm Isabelle. </h2>
 
-- I am a Second Year CS student at the University of Ottawa ➡️ graduating April 2027
-- Java / TypeScript / JavaScript / React / Python 
+- I am a Second Year CS student at the University of Ottawa ➡️ <b> graduating April 2027 </b>
+-  Learning: <b> Java / TypeScript / JavaScript / React / Python </b>
 - ⭐ My personal website can be viewed [here](https://choiisabelle.github.io/personal)
 - 💭 Outside of school, I enjoy writing, going to the gym, and playing video games.
 
