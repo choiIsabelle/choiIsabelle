@@ -1,13 +1,13 @@
-<h1 align='center'> About me! </h1>
-<h2 > Hey, I'm Isabelle. </h2>
+
+<h2 align='left'> Hey, I'm Isabelle ⭐</h2>
 
 - I am a Second Year CS student at the University of Ottawa ➡️ <b> graduating April 2027 </b>
--  Learning: <b> Java / React / JavaScript / Python </b>
 - ⭐ My personal website can be viewed [here](https://choiisabelle.github.io/personal)
-- 💭 Outside of school, I enjoy writing, going to the gym, and playing video games.
+-  Learning: <b> Java / React / JavaScript / Python </b>
+- Outside of school, I enjoy writing, going to the gym, and playing video games.
 
 
-<h2 > Get in Touch! </h2>
+<h2 > 📫 Get in Touch! </h2>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:isabellelissina@gmail.com)
 <a href="https://www.linkedin.com/in/isabelle-choi-19933221b/">
