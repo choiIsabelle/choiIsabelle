@@ -1,5 +1,7 @@
 
- I am a Third Year Computer Science student at the University of Ottawa ➡️ <b> graduating January 2027 </b>
+ I am a fourth-year Computer Science student at the University of Ottawa ➡️ <b> graduating April 2027! </b>
  
 Learning: <b> Java / React / JavaScript / Python </b>
+
+I am reachable at isabellelissina@gmail.com
 
