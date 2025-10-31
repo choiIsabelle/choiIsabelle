@@ -65,4 +65,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=choiIsabelle&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&locale=en" alt="choiIsabelle" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=choiIsabelle&" alt="choiIsabelle" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=choiIsabelle&" alt="choiIsabelle" /></p> -->
