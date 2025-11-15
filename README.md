@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, I'm Isabelle 👋</h1>
 <p align="center">I'm a 4th year Computer Science student at the univeristy of Ottawa. I work on full stack web projects and CI/CD automation.</p>
 
-<h2 align="center">I am most proficient with these tools: </h2>
+<h2 align="center">I am most proficient with: </h2>
 <p align="center"><a href="#">
-  <code><img src="https://skillicons.dev/icons?i=py,cpp,ts,react,linux,aws,ghactions" alt="Python, C++, Typescript, React, Linux, AWS, Github Actions" /></code>
+  <code><img src="https://skillicons.dev/icons?i=py,cpp,ts,react,linux,ghactions" alt="Python, C++, Typescript, React, Linux, Github Actions" /></code>
 </a></p>
 
 <p align="center"><a href="#">
