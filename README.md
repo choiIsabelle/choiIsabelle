@@ -1,5 +1,26 @@
-<h1> Hi, I'm Isabelle 👋</h1>
-<p>I'm a 4th year Computer Science student at the univeristy of Ottawa. I work on full stack web projects and CI/CD automation.</p>
+## Hi I'm Isabelle 
+
+💻 Computer Science @ uOttawa
+⚡ Fullstack development (React, Typescript)
+🏎️ Embedded Systems (C/C++)
+
+**Tech Stack**
+Typescript, React, C/C++, Python
+
+<!--
+**mchoi-cs/mchoi-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!-- <h2 align="center">I am most proficient with: </h2>
 <p align="center"><a href="#">
