@@ -1,7 +1,9 @@
 ## Hi I'm Isabelle 
 
 💻 Computer Science @ uOttawa
-⚡ Fullstack development (React, Typescript)
+
+⚡Fullstack development (React, Typescript)
+
 🏎️ Embedded Systems (C/C++)
 
 **Tech Stack**
