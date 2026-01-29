@@ -9,6 +9,14 @@
 **Tech Stack**
 Typescript, React, C/C++, Python
 
+  <a href="https://www.linkedin.com/in/isabellechoi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:isabellelissina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
 <!--
 **mchoi-cs/mchoi-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
